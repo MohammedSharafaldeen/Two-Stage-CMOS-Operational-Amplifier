@@ -6,3 +6,16 @@ This project presents the design and simulation of a two-stage CMOS operational 
 ## Report
 
 📄 [Project Report](Two-Stage-CMOS-Operational-Amplifier.pdf)
+
+## Features
+
+- Two-stage CMOS operational amplifier
+- 65 nm CMOS technology
+- Cadence Virtuoso implementation
+- High DC gain optimization
+- Frequency compensation
+- AC, DC, and transient analysis
+- Unity-gain bandwidth evaluation
+- Phase margin verification
+- Slew rate analysis
+- CMRR and PSRR evaluation
