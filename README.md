@@ -5,4 +5,4 @@ This project presents the design and simulation of a two-stage CMOS operational 
 
 ## Report
 
-📄 [Project Report](Report.pdf)
+📄 [Project Report](Two-Stage-CMOS-Operational-Amplifier.pdf)
